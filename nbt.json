@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/276427538"
+                 "value":"https:\/\/player.vimeo.com\/video\/276427538?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/306580618"
+                 "value":"https:\/\/player.vimeo.com\/video\/306580618?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=SX1TLhyTEiA"
+                 "value":"https:\/\/www.youtube.com\/embed\/SX1TLhyTEiA?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/197275975"
+                 "value":"https:\/\/player.vimeo.com\/video\/197275975?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
