@@ -12,7 +12,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"gpa_trasse.json"
+                 "value":"gpa_trasse.json#start_nbt"
                 }],
          "type":"tilelayer",
          "visible":true,
