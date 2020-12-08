@@ -149,7 +149,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"hutmacher.json#startA"
+                 "value":"hutmacher.json#start_theke"
                 }],
          "startx":-32,
          "starty":32,
