@@ -111,7 +111,7 @@
                 }],
          "height":48,
          "id":1,
-         "name":"Tile Layer 1",
+         "name":"floor",
          "opacity":1,
          "startx":-32,
          "starty":0,
