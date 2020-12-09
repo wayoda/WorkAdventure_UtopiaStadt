@@ -145,7 +145,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"hutmacher.json"
+                 "value":"hutmacher.json#start_trasse"
                 }],
          "type":"tilelayer",
          "visible":true,
