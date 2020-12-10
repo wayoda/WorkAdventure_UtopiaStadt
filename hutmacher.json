@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"nbt.json#start_hutmacher"
+                 "value":"Utopiastadt.json#start_hutmacher"
                 }],
          "type":"tilelayer",
          "visible":true,
