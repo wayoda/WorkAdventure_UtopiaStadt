@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/183056254"
+                 "value":"https:\/\/player.vimeo.com\/video\/183056254?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
