@@ -39,6 +39,12 @@
          "id":3,
          "name":"start_gpa",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
@@ -87,6 +93,12 @@
          "id":7,
          "name":"start_hutmacher",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
@@ -135,6 +147,12 @@
          "id":11,
          "name":"start_gpaA",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
@@ -147,6 +165,12 @@
          "id":12,
          "name":"start_gpaB",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
