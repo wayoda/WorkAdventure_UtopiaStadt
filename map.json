@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"gpa_trasse.json#start_gpaA"
+                 "value":"Utopiastadt.json#start_gpaA"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"gpa_trasse.json#start_gpaB"
+                 "value":"Utopiastadt.json#start_gpaB"
                 }],
          "type":"tilelayer",
          "visible":true,
