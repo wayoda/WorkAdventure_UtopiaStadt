@@ -15,6 +15,12 @@
          "id":5,
          "name":"video_nachbarschaft",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/player.vimeo.com\/video\/276427538?autoplay=1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
@@ -27,6 +33,12 @@
          "id":6,
          "name":"video_campus_launch",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/player.vimeo.com\/video\/306580618?autoplay=1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
@@ -75,6 +87,12 @@
          "id":9,
          "name":"video_sustainable_insights",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/SX1TLhyTEiA?autoplay=1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
@@ -87,6 +105,12 @@
          "id":10,
          "name":"video_poetry_slam",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/player.vimeo.com\/video\/197275975?autoplay=1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
@@ -172,7 +196,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
