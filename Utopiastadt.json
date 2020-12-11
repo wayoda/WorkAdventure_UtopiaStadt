@@ -181,7 +181,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json#start_gpaA"
+                 "value":"map.json#startA"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +199,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json#start_gpaB"
+                 "value":"map.json#startB"
                 }],
          "type":"tilelayer",
          "visible":true,
