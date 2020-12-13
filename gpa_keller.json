@@ -12,7 +12,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"gpa_trasse.json#start_gpa_kellerA"
+                 "value":"USC.json#start_gpa_kellerA"
                 }],
          "type":"tilelayer",
          "visible":true,
