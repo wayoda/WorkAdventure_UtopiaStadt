@@ -142,7 +142,7 @@
          "name":"M\u00f6bel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":71,
          "x":0,
          "y":0
