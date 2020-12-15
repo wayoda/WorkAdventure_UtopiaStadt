@@ -181,7 +181,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"hutmacher.json#start_trasse"
+                 "value":"hutmacher.json#start_treppe"
                 }],
          "type":"tilelayer",
          "visible":true,
