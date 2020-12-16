@@ -143,6 +143,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/player.twitch.tv\/?channel=stew_one&parent=stew.one"
+                }, 
+                {
                  "name":"stew.one",
                  "type":"string",
                  "value":"https:\/\/player.twitch.tv\/?channel=stew_one&parent=stew.one"
