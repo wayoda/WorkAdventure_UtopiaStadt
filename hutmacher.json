@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=stew_one&parent=stew.one"
+                 "value":"https:\/\/stew.one\/index.html"
                 }, 
                 {
                  "name":"stew.one",
