@@ -215,7 +215,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -338,13 +338,13 @@
         {
          "columns":17,
          "firstgid":549,
-         "image":"Fliesen Hutmacher.png",
-         "imageheight":528,
+         "image":"Fliesen-Hutmacher.png",
+         "imageheight":544,
          "imagewidth":544,
          "margin":0,
          "name":"Fliesen Hutmacher",
          "spacing":0,
-         "tilecount":65536,
+         "tilecount":289,
          "tileheight":32,
          "tilewidth":32
         }],
