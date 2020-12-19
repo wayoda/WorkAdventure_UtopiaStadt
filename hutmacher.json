@@ -204,7 +204,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/comply.de\/download\/JAF20.m4v"
+                 "value":"http:\/\/comply.de\/download\/JAF20.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -269,7 +269,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
