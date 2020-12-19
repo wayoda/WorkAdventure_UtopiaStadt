@@ -204,7 +204,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/comply.de\/download\/JAF20.m4v"
+                 "value":"http:\/\/comply.de\/download\/JAF20.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
